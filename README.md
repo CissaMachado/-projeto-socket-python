@@ -53,7 +53,6 @@ Em um terminal, rode:
 python servidor.py
 ```
 
-📸 *Sugestão de print:* terminal rodando `servidor.py` aguardando conexões.
 
 ### 3. Execute o cliente
 
@@ -63,7 +62,6 @@ Em outro terminal, rode:
 python cliente.py
 ```
 
-📸 *Sugestão de print:* terminal do cliente digitando um nome.
 
 ---
 
